@@ -11,5 +11,3 @@ The app will notify you when the date is approaching, so once the information is
 Don’t believe it’s that easy? Test it yourself! The unExpired app also offers amazing features, such as light and dark modes and a wide selection of colours for you to choose from when listing your items.
 
 Food, Cosmetics, Medication?! Don’t think unExpired is some one-trick pony. Use the app to track and get notified of anything that has an expiration date. All you have to do is sit patiently for that notification to appear.
-
-unExpired, towards the path of never having expired products again.
